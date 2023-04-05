@@ -1,5 +1,5 @@
 # Recover-triggered-states
-An implementation of RTS
+An implementation of RTS.
 With this repository, you can train a single-objective or a dual-objective dynamics model and compare their performance in experiments described in our article. The agents provided are poisoned.
 
 ## Explaination of variables
