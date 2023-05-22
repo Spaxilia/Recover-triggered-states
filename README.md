@@ -9,7 +9,7 @@ With this repository, you can train a single-objective or a dual-objective dynam
 These variables are specific for the agent of *episode_count* in the *environment* for the functions below.  
 ## Instructions
 
-With this repository, you can easily reproduce the experiments described in our article. The step 0 is must be followed. Suppose you want to do experiments 1., you can just uncomment `before_after_defense_data(env_name, episode_count, 1)`, `plot_result(singnal=5, episode_count=int(episode_count))`.  
+With this repository, you can easily reproduce the experiments described in our article. The step 0 is must be followed. Suppose you want to do experiments 1., you can just uncomment `before_after_defense_data(env_name, episode_count, 1)` and `plot_result(singnal=5, episode_count=int(episode_count))`.  
 
 Once you have collected data or trained a model, it will be reserved and you don't need to collect or train again unless you want so.
 
